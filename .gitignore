@@ -1,4 +1,7 @@
 # Created by https://www.gitignore.io/api/osx,node
+.cache/
+dist/
+package-lock.json
 
 ### Node ###
 # Logs
@@ -89,6 +92,3 @@ Temporary Items
 
 
 # End of https://www.gitignore.io/api/osx,node
-
-
-dist

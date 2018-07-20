@@ -5,6 +5,6 @@ export function listsLoad(json) {
     return {type: LISTS_LOAD, json}
 }
 
-export function LISTS_POINT() {
+export function listsPoint() {
     return {type: LISTS_POINT}
 }

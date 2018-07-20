@@ -1,7 +1,7 @@
-import {conbineReducers} from 'redux';
+import {combineReducers} from 'redux';
 
-import spotItApp from './spot-it.js';
+import spotItApp from './spot-it.js'
 
-export default conbineReducers({
-    lists: spotItApp
+export default combineReducers({
+  lists: spotItApp
 });

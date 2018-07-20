@@ -11,12 +11,14 @@ const store = createStore(
 );
 
 import Dashboard from './dashboard.jsx';
+// import CardClicker from './CardClicker.jsx';
 
 class App extends React.Component {
   render() {
     return (
       <Provider store={store}>
         <Dashboard />
+        {/* <CardClicker /> */}
       </Provider>
     )
   }

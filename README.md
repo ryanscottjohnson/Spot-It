@@ -3,17 +3,17 @@
 ## Author
 Ryan Scott Johnson
 
-###Description
+### Description
 This Application is based on a family card game of the same name. Simply spot the difference between two seperate cards/lists and score points.
 
-###Technologies
+### Technologies
 * React
 * Redux
 * Webpack
 * Node
 * JavaScript
 
-###To Use this Applicaiton
+### To Use this Applicaiton
 
 1. Clone this repo to your system.
 2. Terminal - 'npm install' to add add necessary dependencies

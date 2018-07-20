@@ -6,7 +6,7 @@ import {
 let initialState = {
     score: 0,
     //TODO: add words to 'allWords' from card set
-    allWords: ['',],
+    allWords: ['igloo', 'dragon', 'art', 'lightning', 'knight', 'man', 'dog', 'padlock', 'lips', 'anchor', 'music-note', 'flower', 'exclamation-point', 'car', 'key'],
     list1: [],
     list2: [],
     commonWord: ''

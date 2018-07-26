@@ -1,5 +1,5 @@
 import React, {Component, Fragment} from 'react';
-import card01 from '../assets/raw-photos/01.jpg';
+// import card01 from '../assets/01.png';
 import deck from './CardList';
 
 class CardClicker extends Component {
